@@ -4940,3 +4940,5 @@ web.config
 web.xml
 xmlrpc.php
 UI
+struts-blank
+struts2-blank

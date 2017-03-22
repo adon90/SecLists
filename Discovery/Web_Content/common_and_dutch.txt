@@ -4386,3 +4386,5 @@ zt
 ~gebruiker
 ~webmaster
 ~www
+struts-blank
+struts2-blank

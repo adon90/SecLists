@@ -4905,3 +4905,5 @@ web.config
 web.xml
 WS_FTP.LOG
 xmlrpc.php
+struts-blank
+struts2-blank
