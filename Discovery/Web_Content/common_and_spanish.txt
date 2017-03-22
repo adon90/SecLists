@@ -8,7 +8,6 @@
 .git/HEAD
 .history
 .hta
-.htaccess
 .htpasswd
 .listing
 .listings
@@ -245,6 +244,7 @@ activities
 activity
 actual
 ad
+adfs
 ad_js
 adaptive
 adclick
@@ -3207,10 +3207,6 @@ phplive
 phpmailer
 phpmanual
 phpmv2
-phpMyAdmin
-phpmyadmin
-phpMyAdmin2
-phpmyadmin2
 phpnuke
 phppgadmin
 phps
@@ -4984,3 +4980,6 @@ zulo
 ~user
 ~webmaster
 ~www
+adfs
+adfs
+airwatch
